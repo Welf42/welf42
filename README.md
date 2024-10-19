@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
-- 🔭 I’m currently working on 42 Project: Philosophers
+## 🔭 Currently working on 42 Project: Philosophers
 
-## Learning Roadmap
+## 🚀 Learning Roadmap
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![Django](https://img.icons8.com/color/48/000000/django.png)
@@ -10,7 +10,7 @@
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 
-## Techstack
+## 📚 🛠️  Techstack
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="48" height="48">
