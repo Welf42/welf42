@@ -12,7 +12,7 @@
 ## Techstack
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-![R](https://img.icons8.com/ios/50/000000/r.png)
+![R](https://img.icons8.com/color/48/000000/r-project.png)
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
