@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on 42 Project: Philosophers
 
 ## Learning Roadmap
-![Python](https://img.icons8.com/color/48/000000/python.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![Django](https://img.icons8.com/color/48/000000/django.png)
 ![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
@@ -11,10 +11,11 @@
 
 ## Techstack
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![R](https://img.icons8.com/ios-filled/50/000000/r-project.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
-![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)
-![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 
 ## 🚧 Work In Progress
 
