@@ -4,8 +4,9 @@
 
 ## Learning Roadmap
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![Django](https://img.icons8.com/color/48/000000/django.png)
 ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+![Django](https://img.icons8.com/color/48/000000/django.png)
+![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 
