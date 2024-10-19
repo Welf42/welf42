@@ -13,7 +13,7 @@
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
-![R](https://img.icons8.com/ios-filled/50/000000/r-project.png)
+![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 
 ## 🚧 Work In Progress
