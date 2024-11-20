@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 🔭 Currently working on 42 Project: NetPractice
+## 🔭 Currently working on 42 Project: cub3d
 
 ## 🚀 Learning Roadmap
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
