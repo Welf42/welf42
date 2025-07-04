@@ -1,16 +1,16 @@
 # Hi there 👋
 
-## 🔭 Currently working on 42 Project: C++
+## 🔭 Currently working on 42 Project: Webserv
 
 ## 🚀 Learning Roadmap
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![Django](https://img.icons8.com/color/48/000000/django.png)
 ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 
 ## 🛠️  Techstack
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="48" height="48">
