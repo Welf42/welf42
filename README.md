@@ -9,19 +9,19 @@ Some nice projects:
 ## 🚀 Learning Roadmap
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Fastify](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg)
-![Prisma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg))
+![Prisma](https://img.icons8.com/color/48/prisma-orm.png)
+![Fastify](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg){width=24 height=24}
+![Prisma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg){width=24 height=24}
 ![Socket.io](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg)
 ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
 
 ## 🛠️  Techstack
-![Docker%20Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
-![NGINX](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg)
+![NGINX](https://img.icons8.com/color/48/nginx.png)
 ![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="48" height="48">
+![R](https://img.icons8.com/color/48/r.png)
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
