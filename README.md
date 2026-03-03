@@ -10,8 +10,6 @@ Some nice projects:
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Prisma](https://img.icons8.com/color/48/prisma-orm.png)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" alt="Fastify" width="48" height="48" style="filter: invert(1);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.IO" width="48" height="48" style="filter: invert(1);" />
 ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
 
 ## 🛠️  Techstack
